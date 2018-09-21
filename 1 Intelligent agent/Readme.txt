@@ -1,4 +1,4 @@
-Intelligent agent covers Lecture 1 (Chapter 1 & 2).
+"Intelligent agent" covers Lecture 1 (Chapter 1 & 2).
 - Python code agents.py and IPython Notebook agents.pynb are included.
 
 (1) agents.py
