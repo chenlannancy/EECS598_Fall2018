@@ -1,4 +1,4 @@
-"Search" covers Lecture 2-4 (Chapter 3-5).
+"Search" covers Lecture 2-4 (Chapter 3-4).
 - Python code search.py and IPython Notebook search.pynb are included.
 
 (1) search.py
